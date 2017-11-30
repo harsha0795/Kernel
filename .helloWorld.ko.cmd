@@ -1,0 +1,1 @@
+cmd_/home/sribs/Modules/helloWorld.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/sribs/Modules/helloWorld.ko /home/sribs/Modules/helloWorld.o /home/sribs/Modules/helloWorld.mod.o ;  true
