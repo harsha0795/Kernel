@@ -1,0 +1,1 @@
+cmd_/home/sribs/Kernel/Kernel/span_multiple/startend.o := ld -m elf_x86_64   -r -o /home/sribs/Kernel/Kernel/span_multiple/startend.o /home/sribs/Kernel/Kernel/span_multiple/start.o /home/sribs/Kernel/Kernel/span_multiple/end.o 

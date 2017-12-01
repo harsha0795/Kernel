@@ -1,0 +1,1 @@
+cmd_/home/sribs/Kernel/Kernel/span_multiple/startend.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/sribs/Kernel/Kernel/span_multiple/startend.ko /home/sribs/Kernel/Kernel/span_multiple/startend.o /home/sribs/Kernel/Kernel/span_multiple/startend.mod.o ;  true
